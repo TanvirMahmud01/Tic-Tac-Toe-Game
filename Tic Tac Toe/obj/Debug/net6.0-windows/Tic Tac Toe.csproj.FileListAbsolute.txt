@@ -1,0 +1,17 @@
+D:\Centennial\C# tutorials\Tic Tac Toe\Tic Tac Toe\bin\Debug\net6.0-windows\Tic Tac Toe.exe
+D:\Centennial\C# tutorials\Tic Tac Toe\Tic Tac Toe\bin\Debug\net6.0-windows\Tic Tac Toe.deps.json
+D:\Centennial\C# tutorials\Tic Tac Toe\Tic Tac Toe\bin\Debug\net6.0-windows\Tic Tac Toe.runtimeconfig.json
+D:\Centennial\C# tutorials\Tic Tac Toe\Tic Tac Toe\bin\Debug\net6.0-windows\Tic Tac Toe.dll
+D:\Centennial\C# tutorials\Tic Tac Toe\Tic Tac Toe\bin\Debug\net6.0-windows\Tic Tac Toe.pdb
+D:\Centennial\C# tutorials\Tic Tac Toe\Tic Tac Toe\obj\Debug\net6.0-windows\Tic Tac Toe.csproj.AssemblyReference.cache
+D:\Centennial\C# tutorials\Tic Tac Toe\Tic Tac Toe\obj\Debug\net6.0-windows\Tic_Tac_Toe.Form1.resources
+D:\Centennial\C# tutorials\Tic Tac Toe\Tic Tac Toe\obj\Debug\net6.0-windows\Tic Tac Toe.csproj.GenerateResource.cache
+D:\Centennial\C# tutorials\Tic Tac Toe\Tic Tac Toe\obj\Debug\net6.0-windows\Tic Tac Toe.GeneratedMSBuildEditorConfig.editorconfig
+D:\Centennial\C# tutorials\Tic Tac Toe\Tic Tac Toe\obj\Debug\net6.0-windows\Tic Tac Toe.AssemblyInfoInputs.cache
+D:\Centennial\C# tutorials\Tic Tac Toe\Tic Tac Toe\obj\Debug\net6.0-windows\Tic Tac Toe.AssemblyInfo.cs
+D:\Centennial\C# tutorials\Tic Tac Toe\Tic Tac Toe\obj\Debug\net6.0-windows\Tic Tac Toe.csproj.CoreCompileInputs.cache
+D:\Centennial\C# tutorials\Tic Tac Toe\Tic Tac Toe\obj\Debug\net6.0-windows\Tic Tac Toe.dll
+D:\Centennial\C# tutorials\Tic Tac Toe\Tic Tac Toe\obj\Debug\net6.0-windows\refint\Tic Tac Toe.dll
+D:\Centennial\C# tutorials\Tic Tac Toe\Tic Tac Toe\obj\Debug\net6.0-windows\Tic Tac Toe.pdb
+D:\Centennial\C# tutorials\Tic Tac Toe\Tic Tac Toe\obj\Debug\net6.0-windows\Tic Tac Toe.genruntimeconfig.cache
+D:\Centennial\C# tutorials\Tic Tac Toe\Tic Tac Toe\obj\Debug\net6.0-windows\ref\Tic Tac Toe.dll
